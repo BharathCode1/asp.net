@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\dotnet\\code\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
+    "D:\\Learning\\asp.net\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\dotnet\\code\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
+    "D:\\Learning\\asp.net\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\dotnet\\code\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectUniqueName": "D:\\Learning\\asp.net\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "projectName": "BulkyWeb",
-        "projectPath": "D:\\Learning\\dotnet\\code\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
+        "projectPath": "D:\\Learning\\asp.net\\BulkyWeb\\BulkyWeb\\BulkyWeb.csproj",
         "packagesPath": "C:\\Users\\bhara\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\dotnet\\code\\BulkyWeb\\BulkyWeb\\obj\\",
+        "outputPath": "D:\\Learning\\asp.net\\BulkyWeb\\BulkyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bhara\\AppData\\Roaming\\NuGet\\NuGet.Config",

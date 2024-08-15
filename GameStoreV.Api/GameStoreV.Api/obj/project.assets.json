@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csharp\\GameStoreV.Api\\GameStoreV.Api\\GameStoreV.Api.csproj",
+      "projectUniqueName": "D:\\Learning\\asp.net\\GameStoreV.Api\\GameStoreV.Api\\GameStoreV.Api.csproj",
       "projectName": "GameStoreV.Api",
-      "projectPath": "D:\\csharp\\GameStoreV.Api\\GameStoreV.Api\\GameStoreV.Api.csproj",
+      "projectPath": "D:\\Learning\\asp.net\\GameStoreV.Api\\GameStoreV.Api\\GameStoreV.Api.csproj",
       "packagesPath": "C:\\Users\\bhara\\.nuget\\packages\\",
-      "outputPath": "D:\\csharp\\GameStoreV.Api\\GameStoreV.Api\\obj\\",
+      "outputPath": "D:\\Learning\\asp.net\\GameStoreV.Api\\GameStoreV.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bhara\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,6 +41,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
